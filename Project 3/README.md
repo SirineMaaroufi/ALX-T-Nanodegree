@@ -1,5 +1,5 @@
 # Prosper Loan Dataset Exploration
-## by (MAAROUFI Sirine)
+## by MAAROUFI Sirine
 
 
 ## Dataset
