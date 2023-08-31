@@ -3,7 +3,7 @@
 Welcome to the ALX-T Data Analyst Nanodegree repository! 📊📈 
 
 <p align="center">
-<img src="Data_analyst_certificate.png" alt="drawing" width="600"/>
+<img src="Data_analyst_certificate.png" alt="drawing" width="400"/>
 </p>
 
 This dynamic 3-month journey, presented in partnership with Udacity, aimed at equipping Africans with a solid knowledge of a Tech Specialization and also accelerating their career progress.
@@ -16,8 +16,8 @@ Let's dive into the world of data together!
 
 For details on each project, navigate to their respective folders.
 
-Project 1: Investigate a Dataset
-Project 2: Wrangle and Analyse Data
-Project 3: Communicate Data Findings
+### Project 1: Investigate a Dataset
+### Project 2: Wrangle and Analyse Data
+### Project 3: Communicate Data Findings
 
 
